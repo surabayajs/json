@@ -1,0 +1,32 @@
+[
+  {
+    "title": "JavaScript in 14 minutes",
+    "description": "Learn the basics of JavaScript in 14 minutes with this interactive tutorial.",
+    "url": "https://github.com/jgthms/javascript-in-14-minutes"
+  },
+  {
+    "title": "Frontend Bootcamp / Days in the Web",
+    "description": "Repository for a two-day workshop you'll learn the basics of frontend development while building a working web app.",
+    "url": "https://github.com/microsoft/frontend-bootcamp"
+  },
+  {
+    "title": "33 Concepts Every JavaScript Developer Should Know",
+    "description": "This repository was created with the intention of helping developers master their concepts in JavaScript.",
+    "url": "https://github.com/leonardomso/33-js-concepts"
+  },
+  {
+    "title": "Node.js Best Practices",
+    "description": "This repository is a summary and curation of the top-ranked content on Node.js best practices, as well as content written here by collaborators.",
+    "url": "https://github.com/goldbergyoni/nodebestpractices"
+  },
+  {
+    "title": "Professional Programming",
+    "description": "A collection of full-stack resources for programmers.",
+    "url": "https://github.com/charlax/professional-programming"
+  },
+  {
+    "title": "Every Programmer Should Know ",
+    "description": "A collection of (mostly) technical things every software developer should know.",
+    "url": "https://github.com/mtdvio/every-programmer-should-know"
+  }
+]

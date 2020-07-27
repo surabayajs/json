@@ -1,0 +1,77 @@
+[
+  {
+    "language": "id",
+    "title": "Tata Cara Clean Code pada JavaScript",
+    "description": "Pada Course ini, kalian akan mempelajari bagaimana cara menulis variable, function, serta tools yang digunakan untuk membuat Clean Code di JavaScript.",
+    "url": "https://kode.id/kelas/tata-cara-clean-code-pada-javascript/",
+    "featured": true
+  },
+  {
+    "language": "id",
+    "title": "Debugging & Performance pada Node.js",
+    "description": "Pada Course kali ini, kalian akan menemukan materi yang membahas tentang debug Node, benchmark, profiling, serta akan ada demo untuk mengoptimasi performa CPU.",
+    "url": "https://kode.id/kelas/node-debugging-performance/",
+    "featured": true
+  },
+  {
+    "language": "id",
+    "title": "Apa itu Progressive Web Apps?",
+    "description": "Pada course ini kita akan mencoba untuk menghilakan offline dinosaur dan mempercepat load time pada web apps yang kita punya dengan cara mengkonversi aplikasi tersebut menjadi progressive web apps.",
+    "url": "https://kode.id/kelas/apa-itu-progressive-web-apps",
+    "featured": true
+  },
+  {
+    "language": "en",
+    "title": "JavaScript Introduction",
+    "description": "Learn JavaScript, a Web development programming language, to add interactivity to your Web pages, and become an expert Web developer",
+    "url": "https://www.edx.org/course/javascript-introduction"
+  },
+  {
+    "language": "en",
+    "title": "Introduction to TypeScript 2",
+    "description": "Learn all the basics of TypeScript to build great web applications. TypeScript is the future of web development",
+    "url": "https://www.edx.org/course/introduction-to-typescript-2"
+  },
+  {
+    "language": "en",
+    "title": "Programming for the Web with JavaScript",
+    "description": "Learn how to develop dynamic, interactive, and data-driven web apps using JavaScript.",
+    "url": "https://www.edx.org/course/programming-for-the-web-with-javascript"
+  },
+  {
+    "language": "en",
+    "title": "Web Accessibility",
+    "description": "Developing with Empathy",
+    "url": "https://www.udacity.com/course/web-accessibility--ud891"
+  },
+  {
+    "language": "en",
+    "title": "Asynchronous JavaScript Requests",
+    "description": "Fetch Data Asynchronously",
+    "url": "https://www.udacity.com/course/asynchronous-javascript-requests--ud109"
+  },
+  {
+    "language": "en",
+    "title": "JavaScript and the DOM",
+    "description": "Dynamically control the browser",
+    "url": "https://www.udacity.com/course/javascript-and-the-dom--ud117"
+  },
+  {
+    "language": "en",
+    "title": "ES6 - JavaScript Improved",
+    "description": "Updates to the JavaScript language",
+    "url": "https://www.udacity.com/course/es6-javascript-improved--ud356"
+  },
+  {
+    "language": "en",
+    "title": "Browser Rendering Optimization",
+    "description": "Building 60 FPS Web Apps",
+    "url": "https://www.udacity.com/course/browser-rendering-optimization--ud860"
+  },
+  {
+    "language": "en",
+    "title": "Website Performance Optimization",
+    "description": "The Critical Rendering Path",
+    "url": "https://www.udacity.com/course/website-performance-optimization--ud884"
+  }
+]
