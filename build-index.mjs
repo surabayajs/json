@@ -37,8 +37,16 @@ async function buildIndex() {
       })
     );
 
-  const outputPath = path.resolve(process.cwd(), "index.html");
-  fs.writeFile(outputPath, makeTemplate(list), { encoding: "utf-8" });
+  fs.writeFile(
+    path.resolve(process.cwd(), "data/index.html"),
+    makeTemplate(list),
+    { encoding: "utf-8" }
+  );
+  fs.writeFile(
+    path.resolve(process.cwd(), "data/index.json"),
+    JSON.stringify(list, null, 2),
+    { encoding: "utf-8" }
+  );
 }
 
 buildIndex();

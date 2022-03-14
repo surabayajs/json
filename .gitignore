@@ -1,4 +1,5 @@
 *.log
 .DS_Store
-index.html
+public/index.html
+public/index.json
 node_modules/

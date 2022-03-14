@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/inpyjamas/schemas/main/render.com.json
+# https://render.com/docs/yaml-spec
+
+services:
+  - name: surabayajs-json
+    type: web
+    env: static
+    buildCommand: yarn build
+    staticPublishPath: ./public
+    domains:
+      - json.surabayajs.org
+    headers:
+      - path: /*
+        name: Cache-Control
+        value: public, s-maxage=1, stale-while-revalidate=59
+    routes:
+      - type: rewrite
+        source: /
+        destination: index.json
