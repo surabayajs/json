@@ -1,0 +1,8 @@
+{
+  "name": "@surabayajs/json",
+  "type": "module",
+  "scripts": {
+    "build": "node build-index.mjs"
+  },
+  "private": true
+}
