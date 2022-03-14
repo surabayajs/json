@@ -16,4 +16,4 @@ services:
     routes:
       - type: rewrite
         source: /
-        destination: index.json
+        destination: /index.json
