@@ -4,6 +4,7 @@ import * as fs from "fs/promises";
 import * as path from "path";
 
 const EXCLUDE_FILENAMES = [
+  "index.json",
   "package.json",
   //
 ];
