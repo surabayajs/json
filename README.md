@@ -1,3 +1,3 @@
-# learning-resources
+# surabayajs/json
 
-Collection of useful references for learning anything JavaScript 📚
+Collection of JSON resources containing references to learn anything JavaScript 📚
