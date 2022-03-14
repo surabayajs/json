@@ -38,12 +38,12 @@ async function buildIndex() {
     );
 
   fs.writeFile(
-    path.resolve(process.cwd(), "data/index.html"),
+    path.resolve(process.cwd(), "public/index.html"),
     makeTemplate(list),
     { encoding: "utf-8" }
   );
   fs.writeFile(
-    path.resolve(process.cwd(), "data/index.json"),
+    path.resolve(process.cwd(), "public/index.json"),
     JSON.stringify(list, null, 2),
     { encoding: "utf-8" }
   );
