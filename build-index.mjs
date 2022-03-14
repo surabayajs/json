@@ -29,7 +29,7 @@ function makeTemplate(list = []) {
 
 async function buildIndex() {
   const list = await fs
-    .readdir(process.cwd())
+    .readdir(path.resolve(process.cwd(), "public"))
     .then((list) => list.filter((name) => name.endsWith(".json")))
     .then((list) =>
       list.filter((name) => {
